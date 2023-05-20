@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Glaucia de Miranda 👋
 
-- 🔭 Quero ser uma desenvolvedora Front-end
+- 🔭 Futura desenvolvedora Front-end
 - ⚡ Estudando HTML, CSS e JavaScript
 - 😄 Pronouns: ela/dela
 
